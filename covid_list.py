@@ -3,9 +3,9 @@ from twill.commands import *
 
 url_base = 'https://docs.google.com/forms/d/e/1FAIpQLSdYXKTMQdRfOoHGPCwgL-Ro5T7EwGGJBoe7nuaaJk1NBL4z6A/viewform?usp=pp_url'
 
-user = {'tamnnt':'0393981095',
-		'minhdq1':'0963407607',
-		'huynbd':'0963011010'}
+user = {'username1':'sodienthoai1',
+		'username2':'sodienthoai2',
+		'username3':'sodienthoai3'}
 
 option3 = "entry.1684030856=Kh%C3%B4ng"
 option4 = "entry.1376885249=Kh%C3%B4ng"
